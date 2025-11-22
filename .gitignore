@@ -1,0 +1,19 @@
+# Environment/hidden/system
+*.pyc
+__pycache__/
+.venv/
+venv/
+env/
+# Large/Binary/Model files
+*.pth
+*.h5
+*.pb
+*.mp4
+*.avi
+*.npy
+*.dll
+*.so
+*.pyd
+site-packages/
+raw_video/
+models/
